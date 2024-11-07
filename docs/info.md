@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+If switch pins 1 and 7 are powered and the clock is on, the sevseg display will flash the letter E
 
 ## How to test
 
