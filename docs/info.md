@@ -13,8 +13,8 @@ If switch pins 1 and 7 are powered and the clock is on, the sevseg display will 
 
 ## How to test
 
-Explain how to use your project
+Power switch pins 1 and 7 and the clock.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+On your signal outputs, hook up either a 7 segment display or leds.
